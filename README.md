@@ -1,4 +1,8 @@
 # Eminence 4.0 Competition
+## View the Slides
+
+[📄 View the Presentation as a PDF](doc[Anti_sleep_alarm[2].pdf](https://github.com/user-attachments/files/18489813/Anti_sleep_alarm.2.pdf)
+s/your-presentation.pdf)
 
 ## Overview
 **Eminence 4.0** is a competition organized by the **Women in Engineering (WIE) Affinity Group** under the **IEEE Student Branch of the University of Ruhuna**. This event aims to foster innovation, teamwork, and technical expertise among students, providing a platform to showcase creativity, problem-solving skills, and technical knowledge by tackling real-world challenges.
